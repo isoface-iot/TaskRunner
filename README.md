@@ -64,3 +64,7 @@ TaskRunner重點圍繞在電腦裝置執行程序，自訂程序設計，進行�
 |定時執行程式開啟關閉|任務執行器 TaskRunner 通過自動化作業，使程式能在設定的時間開啟關閉|
 |定時數據推送|任務執行器 TaskRunner 通過自動化作業，定時向 IsoBean 推送數據，使 IsoBean 實現數據的動態更新功能|
 |定時備份資料庫|任務執行器 TaskRunner 通過自動化作業，定時執行資料庫的備份任務|
+
+* **TaskRunner 簡介**：https://isoface.net/isoface/production/tool/taskrunner
+* **TaskRunner 幫助手冊**：https://isoface.net/isoface/doc/taskrunner/main/
+* **TaskRunner 快速上手**：https://isoface.net/isoface/study/quick-start/tars-2/taskrunner
