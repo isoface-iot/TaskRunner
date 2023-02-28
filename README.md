@@ -91,4 +91,4 @@ TaskRunner運用場景：
 
 * **TaskRunner 簡介**：https://isoface.net/isoface/production/tool/taskrunner
 * **TaskRunner 幫助手冊**：https://isoface.net/isoface/doc/taskrunner/main/
-* **TaskRunner 快速上手**：https://isoface.net/isoface/study/quick-start/tars-2/taskrunner
+* **TaskRunner 快速上手**：https://isoface.net/isoface/study/quick-start/tool/taskrunner
